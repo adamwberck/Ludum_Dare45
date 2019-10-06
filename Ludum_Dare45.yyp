@@ -87,11 +87,27 @@
             }
         },
         {
+            "Key": "2ea31cc5-57fd-495e-8d25-d2f1a83e4a06",
+            "Value": {
+                "id": "72fc06cd-1550-4986-8340-f908464bc20b",
+                "resourcePath": "rooms\\room00\\room00.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "2eaa9337-414c-4e4a-bc8f-8ec2cd9bab7a",
             "Value": {
                 "id": "41a741a4-0930-48f6-b663-64e0b66e13d4",
                 "resourcePath": "views\\2eaa9337-414c-4e4a-bc8f-8ec2cd9bab7a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "40a08f4b-acd7-4590-8d4b-35ac30e1377d",
+            "Value": {
+                "id": "d929e316-4073-401b-b445-4f2476202307",
+                "resourcePath": "objects\\EnableBoxesLv3\\EnableBoxesLv3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -106,7 +122,7 @@
             "Key": "4b995214-68ec-4aea-8fb5-d6f27010c11f",
             "Value": {
                 "id": "5932b6e1-3e90-43e7-a553-2a4b1b559e5c",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\room02\\room02.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -199,6 +215,14 @@
             }
         },
         {
+            "Key": "810e9e28-750f-4e47-86f2-7b3d4a24ef25",
+            "Value": {
+                "id": "8989d378-4b11-4987-8a1e-ff5d46737323",
+                "resourcePath": "objects\\EnableBoxesLv2\\EnableBoxesLv2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
                 "id": "da1aefca-4e4d-4ac6-b119-4d902353cdec",
@@ -244,6 +268,14 @@
                 "id": "636eb6c5-6d9a-49f3-874b-c1d2aed33baf",
                 "resourcePath": "objects\\Exit\\Exit.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9e8ff136-a527-472c-8d6e-455b86f61d0e",
+            "Value": {
+                "id": "5b054cff-2c39-4694-9127-bf5d7305d19d",
+                "resourcePath": "rooms\\room03\\room03.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -295,6 +327,14 @@
             }
         },
         {
+            "Key": "b908e419-906f-4919-94ab-3ea445fccd61",
+            "Value": {
+                "id": "8e480a1e-ec97-4977-896c-11da2f932035",
+                "resourcePath": "objects\\ZombieBox\\ZombieBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "babc5b28-33ae-4cb4-b4d9-b46dc5697d08",
             "Value": {
                 "id": "cbac022b-8876-4254-99ed-8880793f1286",
@@ -308,6 +348,14 @@
                 "id": "a469154c-0c6f-43c8-a035-54409fdb6959",
                 "resourcePath": "views\\bb51e02e-c44b-4bdc-8ced-8b1dd865e35a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c2198e7b-22d4-4040-9649-899e5de316a2",
+            "Value": {
+                "id": "2284fe3c-96e9-4277-9bd5-91fdb8082282",
+                "resourcePath": "objects\\SolidWall\\SolidWall.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -351,14 +399,6 @@
             }
         },
         {
-            "Key": "e1f0e63f-1bff-4aef-84c8-e5b3719ef109",
-            "Value": {
-                "id": "843e27bc-d823-4049-93cd-f7db6f630ec3",
-                "resourcePath": "rooms\\room1\\room1.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "7e955d9c-d856-49d9-ae88-139526286a25",
@@ -396,6 +436,22 @@
                 "id": "83ce05a6-d3f6-4a22-be75-eef37ce66d34",
                 "resourcePath": "scripts\\create_box\\create_box.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f9619d63-9885-4e5d-ad04-e5738dfe65d9",
+            "Value": {
+                "id": "33e56e5f-a3f6-4416-9b88-1e086766d7d4",
+                "resourcePath": "objects\\InvisibleWall\\InvisibleWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "faf0a637-97de-4d21-8a29-d95349daf497",
+            "Value": {
+                "id": "8951feae-788d-47d8-956c-f22acf868797",
+                "resourcePath": "rooms\\room01\\room01.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

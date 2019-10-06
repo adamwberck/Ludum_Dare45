@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "Director",
     "eventList": [
-        {
-            "id": "3253e8a7-51d7-49f2-a2e0-ecabce2723be",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "c5fc097e-842c-4c13-a1c8-e10c43637f8d"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

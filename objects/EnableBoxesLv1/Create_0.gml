@@ -33,5 +33,5 @@ exit_box.is_locked = true;
 
 instance_deactivate_object(exit_box);
 instance_deactivate_object(Player);
-instance_deactivate_object(Wall);
+instance_deactivate_object(SolidWall);
 instance_deactivate_object(Exit);

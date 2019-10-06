@@ -1,33 +1,33 @@
 {
-    "id": "86af8392-377e-467a-8db6-4559765b0b63",
+    "id": "810e9e28-750f-4e47-86f2-7b3d4a24ef25",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Player",
+    "name": "EnableBoxesLv2",
     "eventList": [
         {
-            "id": "578d8924-6b2b-42dd-9f95-9e90b443cdcc",
+            "id": "a8dc1c80-9cd6-4a22-997c-77dd3afbe7bc",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "86af8392-377e-467a-8db6-4559765b0b63"
+            "eventtype": 0,
+            "m_owner": "810e9e28-750f-4e47-86f2-7b3d4a24ef25"
         },
         {
-            "id": "a64741e7-9aa4-4d05-a2db-7e37212a5e97",
+            "id": "17a3f0b0-7bef-4c9d-a20a-7236362fc977",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 1,
-            "eventtype": 3,
-            "m_owner": "86af8392-377e-467a-8db6-4559765b0b63"
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "810e9e28-750f-4e47-86f2-7b3d4a24ef25"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "fd46b074-4934-48ac-99ad-d260f183815b",
+    "parentObjectId": "acc4de0c-0890-4bb8-9c4d-130a649b1000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -43,7 +43,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "0088202f-14d4-4597-a3ab-0d58b17aa75b",
+            "id": "01d050cb-b75d-4be3-8be7-004d71e9b189",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -52,12 +52,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "$FF000000",
-            "varName": "image_blend",
-            "varType": 7
+            "value": "noone",
+            "varName": "just_checked",
+            "varType": 0
         }
     ],
     "solid": false,
-    "spriteId": "25eed8a8-2a1a-49ae-a56e-f14ff353438a",
+    "spriteId": "1f9643bc-ab76-4d80-a1ef-acb76001ccfc",
     "visible": true
 }
