@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "3a1055ab-8466-4f00-a795-07bad8d62d76",
+            "Value": {
+                "id": "3a5f521e-c394-48f8-988b-1230e3ece1dc",
+                "resourcePath": "rooms\\room04\\room04.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "40a08f4b-acd7-4590-8d4b-35ac30e1377d",
             "Value": {
                 "id": "d929e316-4073-401b-b445-4f2476202307",
@@ -124,6 +132,14 @@
                 "id": "5932b6e1-3e90-43e7-a553-2a4b1b559e5c",
                 "resourcePath": "rooms\\room02\\room02.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "4e68f53f-5203-4de9-9bef-fbc314bfb6f5",
+            "Value": {
+                "id": "d57c2965-6142-42be-b6bc-7a27f4d371dc",
+                "resourcePath": "objects\\EnableBoxesLv4\\EnableBoxesLv4.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -231,6 +247,14 @@
             }
         },
         {
+            "Key": "8544973a-cd6c-4f10-8b56-be9d39e54914",
+            "Value": {
+                "id": "d9ccc9c6-7498-423c-9074-02da1b7d393c",
+                "resourcePath": "scripts\\basicCollision\\basicCollision.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "86af8392-377e-467a-8db6-4559765b0b63",
             "Value": {
                 "id": "b5873f9a-3ec6-4895-b897-dfe3e4c3f4ab",
@@ -292,6 +316,14 @@
                 "id": "2dcdc8d7-3b7e-4672-9245-1bff8c40fad7",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "abbb6fa3-5e39-4a38-ae72-40dfa98939bf",
+            "Value": {
+                "id": "4bd1cfef-c1d6-479c-ad16-ce045430483c",
+                "resourcePath": "scripts\\instance_nearest_notme\\instance_nearest_notme.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -407,6 +439,14 @@
             }
         },
         {
+            "Key": "e9abda3f-b62d-4635-a365-9b1c1a9e5377",
+            "Value": {
+                "id": "2d09c313-1aaa-474f-9834-54c9a3c700b0",
+                "resourcePath": "scripts\\basicCollision_init\\basicCollision_init.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "ecb4315b-6926-4bba-b129-41fad1236e14",
             "Value": {
                 "id": "be8e5a72-3395-4460-874e-94ae606a2968",
@@ -474,7 +514,10 @@
     "script_order": [
         "f7780b26-a54f-4c90-90bd-ea9bfce29e75",
         "53dd0934-6a1a-47af-a25e-9d1704caba72",
-        "c38ac1dc-1cee-4c75-82b9-8e0554988177"
+        "c38ac1dc-1cee-4c75-82b9-8e0554988177",
+        "abbb6fa3-5e39-4a38-ae72-40dfa98939bf",
+        "8544973a-cd6c-4f10-8b56-be9d39e54914",
+        "e9abda3f-b62d-4635-a365-9b1c1a9e5377"
     ],
     "tutorial": ""
 }

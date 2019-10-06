@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "SolidWall",
     "eventList": [
-        {
-            "id": "b676e078-c2b1-43b7-a0a2-70b04828951d",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "c2198e7b-22d4-4040-9649-899e5de316a2"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

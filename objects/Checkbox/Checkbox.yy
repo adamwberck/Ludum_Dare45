@@ -33,6 +33,26 @@
             "enumb": 0,
             "eventtype": 0,
             "m_owner": "acc4de0c-0890-4bb8-9c4d-130a649b1000"
+        },
+        {
+            "id": "66fb4f7f-4773-4656-89e1-d18fe73a5855",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 10,
+            "eventtype": 6,
+            "m_owner": "acc4de0c-0890-4bb8-9c4d-130a649b1000"
+        },
+        {
+            "id": "81cac306-3178-4379-928f-14ccd7872ad5",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 11,
+            "eventtype": 6,
+            "m_owner": "acc4de0c-0890-4bb8-9c4d-130a649b1000"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -107,6 +127,48 @@
             "value": "noone",
             "varName": "level_box",
             "varType": 0
+        },
+        {
+            "id": "67bf45f8-04c4-4182-997a-987df7757998",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "hover",
+            "varType": 3
+        },
+        {
+            "id": "f3b2675f-59f8-423c-8863-85ea605f3765",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "c_hover",
+            "varType": 3
+        },
+        {
+            "id": "53adfb40-d15c-414a-b10b-2e593be19ac7",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "$FF191919",
+            "varName": "c_dkgray2",
+            "varType": 7
         }
     ],
     "solid": false,

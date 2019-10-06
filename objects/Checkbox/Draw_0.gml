@@ -1,6 +1,9 @@
 /// @description Checkbox
 image_index = is_checked ? 1 : 0;
 image_alpha = is_locked ? .5 : 1;
+if(!is_locked){
+	image_alpha = c_hover ? 1 : .8;
+}
 draw_self();
 draw_set_font(CheckboxFont1);
 draw_set_valign(fa_middle)
