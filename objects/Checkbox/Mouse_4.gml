@@ -8,3 +8,9 @@ if(!is_locked){
 		}
 	}
 }
+
+if(is_checked){
+	instance_activate_object(check_obj);
+}else{
+	instance_deactivate_object(check_obj);
+}

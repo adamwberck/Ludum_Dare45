@@ -6,7 +6,9 @@ if(instance_exists(Player)){
 	accel = .2;
 	goal_dir = point_direction(x,y,Player.x,Player.y);
 	alarm0couting=false;
+	if(image_speed<1) then image_speed=1;
 }else{
+	if(image_speed>=1) then image_speed=.5;
 	max_spd = random_range(0,2);
 	accel = .4;
 	spd = approach(spd,max_spd,accel);

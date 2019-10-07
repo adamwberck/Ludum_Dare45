@@ -53,6 +53,16 @@
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "051b7f16-a619-4ba7-9d9e-5d3b42a005a1"
+        },
+        {
+            "id": "399907d3-68c5-419c-aae7-6fada660147f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 2,
+            "eventtype": 3,
+            "m_owner": "051b7f16-a619-4ba7-9d9e-5d3b42a005a1"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -144,9 +154,23 @@
             "value": "0",
             "varName": "alarm0couting",
             "varType": 3
+        },
+        {
+            "id": "cbb32dc0-ae00-4ae7-b617-199cfd8fe8ee",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "\"Zombie\"",
+            "varName": "label",
+            "varType": 2
         }
     ],
     "solid": false,
-    "spriteId": "25eed8a8-2a1a-49ae-a56e-f14ff353438a",
+    "spriteId": "b6113a98-c6ad-4f9a-880f-995908e6d333",
     "visible": true
 }

@@ -1,4 +1,4 @@
-/// @description Move With Collison
+/// @description Move
 //Friction
 var move_fric = not_moving ? fric+accel : fric; //if not moving then you accel to a stop
 
@@ -13,7 +13,6 @@ ay = lengthdir_y(move_fric,dir);
 vx += ax;
 vy += ay;
 
-//Go
 if(!not_moving){
 	var dir = goal_dir;
 	var ax,ay;
@@ -28,25 +27,7 @@ if(!not_moving){
 	}
 }
 
-//Collision
-if(!place_meeting(x+vx,y,Wall)){
-	x += vx;
-}else{
-	var sx =sign(vx);
-	while(!place_meeting(x+sx,y,Wall)){
-		x+=sx;
-	}
-}
-
-if(!place_meeting(x,y+vy,Wall)){
-	y += vy;
-}else{
-	var sy = sign(vy);
-	while(!place_meeting(x,y+sy,Wall)){
-		y+=sy;
-	}
-}
-
-if(not_moving && abs(vx)<.6 && abs(vy)<.6){
+//if slow stop
+if(not_moving && abs(vx)<.5 && abs(vy)<.5){
 	vx=0;vy=0;
 }

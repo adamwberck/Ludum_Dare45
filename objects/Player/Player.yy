@@ -5,16 +5,6 @@
     "name": "Player",
     "eventList": [
         {
-            "id": "578d8924-6b2b-42dd-9f95-9e90b443cdcc",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "86af8392-377e-467a-8db6-4559765b0b63"
-        },
-        {
             "id": "a64741e7-9aa4-4d05-a2db-7e37212a5e97",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -22,6 +12,46 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 1,
             "eventtype": 3,
+            "m_owner": "86af8392-377e-467a-8db6-4559765b0b63"
+        },
+        {
+            "id": "2e9d0254-260b-432b-ba2f-3512e2fbb579",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 2,
+            "eventtype": 3,
+            "m_owner": "86af8392-377e-467a-8db6-4559765b0b63"
+        },
+        {
+            "id": "c6c41994-a481-4e63-8fe3-7bb91bbff083",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "051b7f16-a619-4ba7-9d9e-5d3b42a005a1",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "86af8392-377e-467a-8db6-4559765b0b63"
+        },
+        {
+            "id": "f39df3ce-1561-408a-b9db-dac8265ed88b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "86af8392-377e-467a-8db6-4559765b0b63"
+        },
+        {
+            "id": "1684bd4a-c740-47a2-9080-cef2ff5b4b5b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 82,
+            "eventtype": 9,
             "m_owner": "86af8392-377e-467a-8db6-4559765b0b63"
         }
     ],
@@ -55,6 +85,48 @@
             "value": "$FF000000",
             "varName": "image_blend",
             "varType": 7
+        },
+        {
+            "id": "d5658626-60db-41e4-9eeb-1da0b97a26ed",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "\"Player\"",
+            "varName": "label",
+            "varType": 2
+        },
+        {
+            "id": "b03fe4fd-7496-4e7d-9701-0fee4ebed74d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "100",
+            "varName": "hp",
+            "varType": 0
+        },
+        {
+            "id": "d3148dd0-7524-46f4-9756-70724cd961ea",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "dead",
+            "varType": 3
         }
     ],
     "solid": false,

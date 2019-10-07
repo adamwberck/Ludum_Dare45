@@ -1,3 +1,3 @@
 /// @description 
 basicCollision();
-event_inherited();
+alarm0couting = false;

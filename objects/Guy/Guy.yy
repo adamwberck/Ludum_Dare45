@@ -149,6 +149,20 @@
             "value": "0",
             "varName": "vy",
             "varType": 0
+        },
+        {
+            "id": "92142f95-1e7d-4c92-9148-419d6c8a2ba6",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "sGuy",
+            "varName": "sprite_index",
+            "varType": 0
         }
     ],
     "solid": false,

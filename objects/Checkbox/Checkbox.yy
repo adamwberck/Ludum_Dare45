@@ -169,6 +169,20 @@
             "value": "$FF191919",
             "varName": "c_dkgray2",
             "varType": 7
+        },
+        {
+            "id": "904726a8-6fd9-478a-8246-33dceea460ed",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "noone",
+            "varName": "check_obj",
+            "varType": 0
         }
     ],
     "solid": false,

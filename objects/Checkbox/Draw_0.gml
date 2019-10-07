@@ -1,6 +1,11 @@
 /// @description Checkbox
 image_index = is_checked ? 1 : 0;
 image_alpha = is_locked ? .5 : 1;
+
+if(instance_exists(check_obj)){
+	label = check_obj.label;
+}
+
 if(!is_locked){
 	image_alpha = c_hover ? 1 : .8;
 }

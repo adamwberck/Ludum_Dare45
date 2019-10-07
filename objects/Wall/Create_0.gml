@@ -1,3 +1,2 @@
-/// @description Color black
-image_blend=c_black;
+/// @description Set Mass
 basicCollision_init(10000);
