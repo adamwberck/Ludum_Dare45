@@ -1,3 +1,5 @@
 /// @description 
 basicCollision();
-alarm0couting = false;
+vx*=.5;
+vy*=.5;
+image_index =0;
