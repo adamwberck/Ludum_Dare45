@@ -39,11 +39,11 @@
             }
         },
         {
-            "Key": "11e4c2cd-ee4c-484f-b000-b1a0646e0bfd",
+            "Key": "158866f1-7ae8-47e6-8782-462109295a74",
             "Value": {
-                "id": "e5ced29a-3892-4227-b13f-cf237620e0d1",
-                "resourcePath": "sprites\\sMenuBar\\sMenuBar.yy",
-                "resourceType": "GMSprite"
+                "id": "eb4e8f0d-3992-403c-9aa5-c7547c65a367",
+                "resourcePath": "sounds\\B2\\B2.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "4dfbc3a9-9819-4a57-9455-c5dd670b7dff",
+            "Value": {
+                "id": "6e3013c8-f73a-4a3e-855a-9dabca4cf555",
+                "resourcePath": "objects\\Restart\\Restart.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4e68f53f-5203-4de9-9bef-fbc314bfb6f5",
             "Value": {
                 "id": "d57c2965-6142-42be-b6bc-7a27f4d371dc",
@@ -239,10 +247,10 @@
             }
         },
         {
-            "Key": "752aec55-ca3d-4c47-8a91-c48968670fa5",
+            "Key": "68ce5d28-a1e1-4575-988f-58d0499a6c19",
             "Value": {
-                "id": "6896b975-69e5-40be-88a6-c9b1ccb0585e",
-                "resourcePath": "sprites\\sMenuButton\\sMenuButton.yy",
+                "id": "62111e0d-a6f5-465c-86ba-e06b2e088494",
+                "resourcePath": "sprites\\sDirectorYellow\\sDirectorYellow.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -375,6 +383,14 @@
             }
         },
         {
+            "Key": "ad8f1765-2bad-4d57-b4dc-2f24534d3dcf",
+            "Value": {
+                "id": "4175decd-e9a2-48c5-98a5-0a2b25f9bf0a",
+                "resourcePath": "sprites\\sReset\\sReset.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "af6302c5-6c95-49ae-8f9f-32c40d7d5b94",
             "Value": {
                 "id": "f6eaf5a9-bda0-4dc7-97cc-6e3b4a81c316",
@@ -423,6 +439,14 @@
             }
         },
         {
+            "Key": "c1a73f5e-7941-47ba-b6e8-4c9ea0f8b7d6",
+            "Value": {
+                "id": "ad03dd43-de9d-43c8-8b16-a1d92f4a491f",
+                "resourcePath": "sounds\\A2\\A2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "c2198e7b-22d4-4040-9649-899e5de316a2",
             "Value": {
                 "id": "2284fe3c-96e9-4277-9bd5-91fdb8082282",
@@ -447,14 +471,6 @@
             }
         },
         {
-            "Key": "c5fc097e-842c-4c13-a1c8-e10c43637f8d",
-            "Value": {
-                "id": "10a7577a-8fc0-4a60-94b7-05b28edd7890",
-                "resourcePath": "objects\\Director\\Director.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "c6e33c8c-c8c9-4e51-baf4-390ff52c8e9f",
             "Value": {
                 "id": "ced6a876-27ef-4f32-9273-113e07eee356",
@@ -476,6 +492,14 @@
                 "id": "3b672e75-10a9-4734-8a39-ae5e364241e9",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d9561f6d-88b6-40db-aeac-e99db3d0eb5e",
+            "Value": {
+                "id": "e5c2f4f1-5176-486e-8541-4819e9f606ae",
+                "resourcePath": "sounds\\E2\\E2.yy",
+                "resourceType": "GMSound"
             }
         },
         {

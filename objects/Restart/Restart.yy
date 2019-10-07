@@ -1,15 +1,24 @@
 {
-    "id": "c5fc097e-842c-4c13-a1c8-e10c43637f8d",
+    "id": "4dfbc3a9-9819-4a57-9455-c5dd670b7dff",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Director",
+    "name": "Restart",
     "eventList": [
-        
+        {
+            "id": "a3ccf897-00f5-446d-832b-a707e988dc33",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "4dfbc3a9-9819-4a57-9455-c5dd670b7dff"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
-    "persistent": false,
+    "persistent": true,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,
@@ -22,10 +31,8 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        
-    ],
+    "properties": null,
     "solid": false,
-    "spriteId": "c6e33c8c-c8c9-4e51-baf4-390ff52c8e9f",
-    "visible": false
+    "spriteId": "ad8f1765-2bad-4d57-b4dc-2f24534d3dcf",
+    "visible": true
 }

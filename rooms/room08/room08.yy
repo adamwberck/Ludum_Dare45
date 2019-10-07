@@ -116,8 +116,6 @@
         "4eb3ded2-0c69-420e-8df4-9097800e49f8",
         "b4149a70-1e8d-4cae-83c4-612e4b5649c2",
         "9adbb718-acf2-4294-8f66-ab9d06691d40",
-        "298a68cd-4a9a-48ef-8309-6e3d0537321b",
-        "da83d2be-cc0a-4a8a-9db7-7ee96ca7bd0e",
         "3bebf186-af74-4221-9e0d-6e1042bd33f6",
         "8a869ed1-e4f9-473e-9612-0d226cd89b67",
         "d30a6b83-6cc0-458b-a800-db2e19a40846",
@@ -535,8 +533,6 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_16BC8930","id": "298a68cd-4a9a-48ef-8309-6e3d0537321b","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_16BC8930","objId": "051b7f16-a619-4ba7-9d9e-5d3b42a005a1","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1088,"y": 608},
-{"name": "inst_CAE4E44","id": "da83d2be-cc0a-4a8a-9db7-7ee96ca7bd0e","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_CAE4E44","objId": "051b7f16-a619-4ba7-9d9e-5d3b42a005a1","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 864,"y": 608},
 {"name": "inst_1B47623A","id": "3bebf186-af74-4221-9e0d-6e1042bd33f6","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1B47623A","objId": "96c2496e-90b7-4931-9be8-017e826f636a","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1216,"y": 512}
             ],
             "layers": [
