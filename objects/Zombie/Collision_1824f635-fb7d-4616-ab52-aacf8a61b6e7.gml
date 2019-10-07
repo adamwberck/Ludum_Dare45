@@ -1,5 +1,7 @@
 /// @description 
 basicCollision();
-vx=0;
-vy=0;
+if(instance_exists(Player)){
+	vx*=0.2;
+	vy*=0.2;
+}
 image_index =0;
